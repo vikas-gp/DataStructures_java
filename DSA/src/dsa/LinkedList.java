@@ -1,4 +1,4 @@
-package linkedList;
+package dsa;
 import java.util.Scanner;
 public class LinkedList {
 
